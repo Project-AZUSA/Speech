@@ -1,0 +1,9 @@
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.exe
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.pdb
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\CloudSpeech.dll
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\CUETools.Codecs.dll
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.csprojResolveAssemblyReference.cache
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.exe
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.pdb
