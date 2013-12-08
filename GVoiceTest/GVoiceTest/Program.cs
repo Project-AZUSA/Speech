@@ -39,7 +39,7 @@ namespace GVoiceTest
 
         static void _eng_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
         {
-            Console.WriteLine("Speech detected, processing...");
+            Console.WriteLine("处理中...");
 
             //保存錄音
             mciSendString("pause recsound", null, 0, 0);
@@ -48,14 +48,14 @@ namespace GVoiceTest
             mciSendString("close recsound", null, 0, 0);
 
             //解析
-            var resp = _recg.Recognize(File.OpenRead(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\spch.wav"));
-            if (resp.Count() != 0)
+            try
             {
-                Console.WriteLine("You said: " + resp.First().Utterance);
+                var resp = _recg.Recognize(File.OpenRead(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\spch.wav"));
+                Console.WriteLine("结果: " + resp.First().Utterance);
             }
-            else
+            catch
             {
-                Console.WriteLine("Unknown");
+                Console.WriteLine("识别失败");
             }
 
         }
