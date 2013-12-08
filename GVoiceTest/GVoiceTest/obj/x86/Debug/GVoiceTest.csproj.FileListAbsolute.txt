@@ -7,3 +7,6 @@ C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\ru-RU\CUETools.C
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.csprojResolveAssemblyReference.cache
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.exe
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.pdb
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.exe.config
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\NAudio.dll
+C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\NAudio.xml
