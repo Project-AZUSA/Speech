@@ -8,3 +8,12 @@ C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.c
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.exe
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.pdb
 C:\Users\ytc\Documents\Programs\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.exe.config
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.exe.config
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.exe
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.pdb
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.exe
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\GVoiceTest.pdb
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\CloudSpeech.dll
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\CUETools.Codecs.dll
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\ytc\Documents\GitHub\Speech\GVoiceTest\GVoiceTest\obj\x86\Debug\GVoiceTest.csprojResolveAssemblyReference.cache
