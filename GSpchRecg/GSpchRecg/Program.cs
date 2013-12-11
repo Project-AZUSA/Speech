@@ -29,7 +29,7 @@ namespace GSpchRecg
         static bool speech = false;
         static bool recording = false;
 
-        static string lang = "zh-TW";
+        static string lang = "ja";
 
         static void InputDevice_DataAvailable(object sender, WaveInEventArgs e)
         {
@@ -131,7 +131,20 @@ namespace GSpchRecg
 
             WavEvent.DataAvailable += new EventHandler<WaveInEventArgs>(InputDevice_DataAvailable);
             WavEvent.WaveFormat = WavFormat;
-            WavEvent.StartRecording();            
+            WavEvent.StartRecording();
+
+            Console.WriteLine("SYS_LANG?");
+            lang = Console.ReadLine().ToLower();
+
+            Console.WriteLine("GSR_THRESHOLD?");
+            if(!float.TryParse(Console.ReadLine(),out threshold)){
+                threshold = 0.1f;
+            }
+
+            if (lang == "sys_lang")
+            {
+                lang = "ja";
+            }
 
             return true;
         }
