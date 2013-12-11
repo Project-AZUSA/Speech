@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GVoiceTest")]
+[assembly: AssemblyTitle("GSpchRecg")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NERV")]
-[assembly: AssemblyProduct("GVoiceTest")]
+[assembly: AssemblyProduct("GSpchRecg")]
 [assembly: AssemblyCopyright("Copyright © NERV 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e24d05a3-9ae5-4055-ad4f-608b248c2133")]
+[assembly: Guid("d8b11a5e-3160-4ece-8171-d874abe078e8")]
 
 // Version information for an assembly consists of the following four values:
 //

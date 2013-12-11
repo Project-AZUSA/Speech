@@ -1,0 +1,7 @@
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\bin\Debug\GSpchRecg.exe.config
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\bin\Debug\GSpchRecg.exe
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\bin\Debug\GSpchRecg.pdb
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\bin\Debug\NAudio.dll
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\obj\x86\Debug\GSpchRecg.csprojResolveAssemblyReference.cache
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\obj\x86\Debug\GSpchRecg.exe
+C:\Users\ytc\Documents\GitHub\GSpchRecg\GSpchRecg\obj\x86\Debug\GSpchRecg.pdb
