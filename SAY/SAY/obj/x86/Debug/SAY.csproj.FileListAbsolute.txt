@@ -1,0 +1,6 @@
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\bin\Debug\SAY.exe.config
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\bin\Debug\SAY.exe
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\bin\Debug\SAY.pdb
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\obj\x86\Debug\SAY.exe
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\obj\x86\Debug\SAY.pdb
+C:\Users\ytc\Documents\GitHub\Speech\SAY\SAY\obj\x86\Debug\SAY.csprojResolveAssemblyReference.cache
