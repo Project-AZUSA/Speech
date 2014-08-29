@@ -54,7 +54,7 @@ namespace WinSpchRecg
         //接下來是處理與 AZUSA 和其他引擎溝通的部分, 一般不需要改動
         //========================================
         #region Communications
-        static int AZUSAPid;
+        static int AZUSAPid=-1;
 
         static void Main(string[] args)
         {
@@ -67,8 +67,21 @@ namespace WinSpchRecg
                 return;
             }
 
-            Console.WriteLine("GetAzusaPid()");
-            AZUSAPid = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < RETRY; i++)
+            {
+                Console.WriteLine("GetAzusaPid()");
+                try
+                {
+                    AZUSAPid = Convert.ToInt32(Console.ReadLine());
+                    break;
+                }
+                catch
+                {
+                }
+            }
+
+            if (AZUSAPid == -1) { Console.WriteLine("ERR(Cannot get Azusa PID [WinSR])"); }
+
 
             Console.WriteLine("RegisterAs(Input)");
 
