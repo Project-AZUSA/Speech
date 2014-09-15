@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Speech.Recognition;
-using ZMQ;
+using ZeroMQ;
 
 namespace WinSpchRecg
 {
@@ -17,7 +17,7 @@ namespace WinSpchRecg
 
         //這個是預設的端口
         //如果已被佔用會換成別的端口
-        static int DEFAULT_PORT = 1111;
+        static int DEFAULT_PORT = 61111;
 
         //識別引擎
         static SpeechRecognitionEngine _recognizer = new SpeechRecognitionEngine();
@@ -86,8 +86,8 @@ namespace WinSpchRecg
             Console.WriteLine("RegisterAs(Input)");
 
             //創建 zmq PUB 端口
-            using (Context ctx = new Context())
-            using (Socket server = ctx.Socket(SocketType.PUB))
+            using (ZmqContext ctx = ZmqContext.Create())
+            using (ZmqSocket server = ctx.CreateSocket(SocketType.PUB))
             {
                 //記錄是否已成功創建
                 bool SUCCES = false;

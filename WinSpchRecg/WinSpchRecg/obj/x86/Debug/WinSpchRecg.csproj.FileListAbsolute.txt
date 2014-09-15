@@ -5,3 +5,5 @@ C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\bin\Debug\clrzmq.dl
 C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\obj\x86\Debug\WinSpchRecg.csprojResolveAssemblyReference.cache
 C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\obj\x86\Debug\WinSpchRecg.exe
 C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\obj\x86\Debug\WinSpchRecg.pdb
+C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\bin\Debug\clrzmq.pdb
+C:\Users\ytc\Documents\GitHub\Speech\WinSpchRecg\WinSpchRecg\bin\Debug\clrzmq.xml
