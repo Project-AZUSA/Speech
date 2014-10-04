@@ -14,7 +14,7 @@ namespace WinSpchRecg
         
         static void _recognizer_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
         {
-            Console.WriteLine("INPUT(\"" + e.Result.Text + "\")");
+            Console.WriteLine("INPUT(\"" + System.Web.HttpUtility.UrlEncode(e.Result.Text) + "\")");
         }
 
         static int AZUSAPid=-1;
